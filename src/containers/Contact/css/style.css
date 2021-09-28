@@ -15,3 +15,9 @@
     background-color: #d6c64c !important;
     color: white !important;
 }
+
+@media screen and (max-width: 530px) {
+    .resDiv{
+        width: 100% !important;
+    }
+}

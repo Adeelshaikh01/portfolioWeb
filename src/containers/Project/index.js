@@ -11,7 +11,7 @@ function Project() {
         <div>
             <Header/>
             <div className="cardSection">
-            <div className="container mt-5 d-flex flex-wrap justify-content-center">
+            <div className="container d-flex flex-wrap justify-content-center">
             <a className="linkStyle" href='https://userauth-16e30.web.app/' target="_blank" rel="noreferrer">
             <Card className="animate__animated animate__zoomIn" title="Todo App" src={todo}>
             Todo List App is a kind of app that generally used to maintain our day-to-day tasks or list everything that we have to do
